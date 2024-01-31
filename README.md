@@ -1,7 +1,7 @@
 ### Tudo bem? Eu sou o Kalleb Vieira 👋
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalleb-pereira-469781231/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kallebpv)
-
+<!-- github que eu usei: https://github.com/anuraghazra/github-readme-stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallebpv&show_icons=true&theme=merko)
 
 ### Tecnologias que eu uso no dia a dia 👨‍💻
